@@ -173,3 +173,4 @@ C:\Users\SERVIDOR\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\ref\
 C:\Users\SERVIDOR\source\repos\LibrarySystem\LibrarySystem\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\SERVIDOR\source\repos\LibrarySystem\LibrarySystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\SERVIDOR\source\repos\LibrarySystem\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SERVIDOR\source\repos\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.sourcelink.json
